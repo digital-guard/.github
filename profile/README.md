@@ -26,7 +26,7 @@ If you work with data, you can help us to check and confirm quality. See the lis
 * [Packageds of  Colombia](https://git.digital-guard.org/preserv-CO/blob/main/data), see any `/_pk*` folder. (...)
   
 ## Logs and reports
-Reports of packages available for downloads on [AddressForAll Institute website](https://addressforall.org/en/downloads/):
+Reports of packages available for download on [AddressForAll Institute website](https://addressforall.org/en/downloads/):
 * CSV: https://afa.codes/_sql.csv/pkindown
 * JSON: https://afa.codes/_sql/pkindown
 
